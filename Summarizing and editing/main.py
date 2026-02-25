@@ -25,3 +25,4 @@ def get_response(prompt):
 response = get_response("What are the benefits of AI in education")
 
 print(response)
+
