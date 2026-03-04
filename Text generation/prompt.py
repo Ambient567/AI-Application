@@ -9,7 +9,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise ValueError("API key not found")
 
-def get_respose(prompt):
+def get_response(prompt):
     client = OpenAI(api_key=api_key)
     # Create a request to the Chat Completions endpoint
     response = client.chat.completions.create(
@@ -22,7 +22,7 @@ def get_respose(prompt):
 
 prompt = """Give the eye catching slogan for a restaurant with Italian, Chinese food and fine-dining, fast-food etc """
 
-response = get_respose(prompt)
+response = get_response(prompt)
 
 print(response)
 

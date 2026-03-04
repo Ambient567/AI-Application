@@ -20,9 +20,8 @@ response = client.chat.completions.create(
     {"role":"system",
      "content": "You are a study planning assistant that creates plans for learning new skills."},
     {"role": "user",
-     "content": "I want to learn to speak Dutch."}
-  ]
-)
+     "content": "I want to learn to speak Dutch."}]
+  )
 
 # Extract the assistant's text response
 print(response.choices[0].message.content)
