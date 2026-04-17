@@ -6,7 +6,7 @@ The focus of this module is on understanding and applying prompt engineering tec
 
 ## 📚 Topics Covered
 
-- Build a Character AI (Text Generation)  
+- Build a Character AI - Text Generation  
 - Summarizing and Editing Text  
 - Text Generation  
 - Shot Prompting (Zero-shot, One-shot, Few-shot)  
@@ -35,13 +35,13 @@ The goals of this repository are to:
 
 1. Navigate through the folders based on each topic  
 2. Review examples and prompt structures  
-3. Run any scripts (if included)  
+3. Run any scripts
 4. Experiment by modifying prompts and observing outputs  
 
 ## ⚙️ Requirements
 
 - Python 3.x  
-- OpenAI API (for practical implementations)  
+- OpenAI API
 - Basic understanding of programming concepts
 
 ## 📝 Notes
