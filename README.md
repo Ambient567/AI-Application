@@ -31,18 +31,6 @@ The goals of this repository are to:
 - API-based AI integration  
 - Critical thinking in AI responses
 
-## 🚀 How to Use
-
-1. Navigate through the folders based on each topic  
-2. Review examples and prompt structures  
-3. Run any scripts
-4. Experiment by modifying prompts and observing outputs  
-
-## ⚙️ Requirements
-
-- Python 3.x  
-- OpenAI API
-- Basic understanding of programming concepts
 
 ## 📝 Notes
 
